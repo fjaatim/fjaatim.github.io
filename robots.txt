@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fjaatim.github.io/sitemap/sitemap.txt
